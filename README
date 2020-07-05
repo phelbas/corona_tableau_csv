@@ -1,6 +1,7 @@
 
 tableau corona data exported to CSV
-  Arizona
+  Arizona (tableau.azdhs.gov)
+  California (public.tableau.com)
 
 filenames include date timestamps in East Coast USA zone
 CSV files are raw dumps from all data delivered by a single tableau view URL
